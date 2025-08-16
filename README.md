@@ -15,27 +15,11 @@ The notebook showcases:
 ## 📂 Project Structure  
 
 ```
-google_eda_project/
+Early_HeartDisease_Detection/
 │
-├── data/                          # raw and processed datasets
-│   ├── heart.csv.xls
-│   └── processed_heart.csv
-│
-├── notebooks/
-│   └── Heart_Seaborn_EDA_v2.ipynb   # main analysis notebook
-│
-├── reports/
-│   ├── Heart_Seaborn_EDA_v2.html    # polished portfolio-ready report
-│   └── figures/                     # saved plots for portfolio or slide decks
-│       ├── reliability_diagram.png
-│       ├── shap_summary_bar.png
-│       ├── shap_summary_beeswarm.png
-│       ├── shap_dependence_Age.png
-│       └── ...
-│
-├── models/
-│   ├── lgbm_final.pkl               # trained LightGBM model
-│   └── lgbm_calibrated.pkl          # Platt-scaled calibrated model
+│── Heart_Seaborn_EDA_v2.ipynb   # main analysis notebook   
+│   
+│                         
 │
 └── README.md                        # project documentation (this file)
 ```
@@ -108,4 +92,3 @@ This project demonstrates:
 - **Model interpretability and fairness analysis** — crucial for responsible AI in healthcare.  
 - **Polished deliverables** (notebook, HTML report, figures, models) structured for professional presentation.  
 
-Employers like Google, Amazon, and healthcare AI startups value not just technical ability, but also the **ability to translate findings into actionable insights** — this project is designed to showcase exactly that.  
