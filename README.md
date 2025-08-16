@@ -19,9 +19,9 @@ Early_HeartDisease_Detection/
 │
 │── Heart_Seaborn_EDA_v2.ipynb   # main analysis notebook   
 │   
-│                         
 │
-└── README.md                        # project documentation (this file)
+└── README.md                        # project documentation (this file)                        
+
 ```
 
 ---
